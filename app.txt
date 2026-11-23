@@ -1,1 +1,1 @@
-version2 from main
+version 2
